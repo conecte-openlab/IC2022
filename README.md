@@ -13,7 +13,7 @@ Aqui, serão colocados, por ordem de criação, os arquivos disponibilizados pel
 
 ### Introdução:
 
-1.0 - GitHub e VsCode ([link](1.0 - GitHub e VsCode))
+1.0 - GitHub e VsCode ([link](https://github.com/conecte-openlab/IC2022/blob/main/docs/tutoGitHubVSCode.md))
 
 1.1 - Node.JS ([link](https://github.com/conecte-openlab/IC2022/blob/main/docs/NodeJS.md))
 
