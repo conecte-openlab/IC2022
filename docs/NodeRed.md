@@ -22,4 +22,16 @@ Para a instalação do Node-RED tem-se que a única exigencia é que o Node.JS e
 
 -[Link](https://nodered.org/) página principal do node-red, fonte principal de informações.
 
--[link](https://www.youtube.com/watch?v=y671EpUFM5s&list=PLSbD5F_Z_s7aHo6dTcNikh7Jvs5nuBY1P&ab_channel=FutureCloud) para playlist de node-red com algumas práticas
+-[link](https://www.youtube.com/watch?v=y671EpUFM5s&list=PLSbD5F_Z_s7aHo6dTcNikh7Jvs5nuBY1P&ab_channel=FutureCloud) para playlist de node-red com algumas práticas:
+ - Aula 2 3"17' - Inject e debug
+ - Aula 3 - 2"15' ate 10'':10' - Function
+ - Aula 4-  0"50' - Instalação de novos módulos
+ - Aula 5-  2"8' - aprodundamento da function
+ - Aula 8- Switch
+ - Aula 13-0"30' introcução ao nó Html
+ - Aula 14- parametros de entrada Html
+ - Aula 15- parametros de entrada html
+ - Aula 18- Inicio de Json
+ - Aula 20- Envio de dados de formulário
+ - Aula 22- Requisição Http get
+ - Aula 25- Banco de dados
