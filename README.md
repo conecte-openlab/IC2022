@@ -7,8 +7,6 @@ Aqui, serão colocados, por ordem de criação, os arquivos disponibilizados pel
 
 1.0 - GitHub e VsCode
 
-
-
 ## Servidor:
 
 ### Introdução:
@@ -28,4 +26,6 @@ Aqui, serão colocados, por ordem de criação, os arquivos disponibilizados pel
 2.2 - Http- ([link](https://github.com/conecte-openlab/servidor/blob/main/docs/Http/Http.md))
 
 2.3 - http- Hello World ([link](https://github.com/conecte-openlab/servidor/blob/main/docs/Http/HttpHW.md))
+
+## APP:
 
