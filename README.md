@@ -1,7 +1,7 @@
 # IC2022
 ## Introdução ao projeto de iniciação científica
 
-Aqui, serão colocados, por ordem de criação, os arquivos disponibilizados pelos responsáveis pelo Sensor e Servidor.
+Aqui, serão colocados, por ordem de criação, os arquivos disponibilizados pelos responsáveis pelo Sensor, APP e Servidor.
 
 ## Sensor:
 
