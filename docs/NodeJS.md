@@ -24,7 +24,7 @@ Confira o procedimento para instalação do Node.JS:
  ![pic](/media/MediaNode/seis.png)
 
 
-- Por fim, a instalação esta efetuada. Para verificar se a mesma está validada, basta ir no menu iniciar e digitar "node.js"
+- Por fim, a instalação está efetuada. Para verificar se a mesma está validada, basta ir no menu iniciar e digitar "node.js"
 
   ![pic](/media/MediaNode/sete.png)
 
