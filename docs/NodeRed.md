@@ -35,3 +35,6 @@ Para a instalação do Node-RED tem-se que a única exigencia é que o Node.JS e
  - Aula 20- Envio de dados de formulário
  - Aula 22- Requisição Http get
  - Aula 25- Banco de dados
+ - Introdução ao MongoDB ([link](https://www.youtube.com/watch?v=j-cjF1GkEMQ&t=749s&ab_channel=CanalTI))
+ - Conectando banco de dados com node red ([link](https://www.youtube.com/watch?v=03NwekIdcMo&t=440s&ab_channel=DevEd))
+ - 
