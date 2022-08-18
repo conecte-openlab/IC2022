@@ -1,6 +1,6 @@
 # Integração VSCode e GitHub
 
-O Git e do GitHub estão diretamente conectados. Mas, nete primeiro momento é explicitado individualmente o funcionamento de cada um:
+O Git e do GitHub estão diretamente conectados. Mas, neste primeiro momento é explicitado individualmente o funcionamento de cada um:
 
 ## Git
 
